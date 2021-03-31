@@ -1,0 +1,14 @@
+C:\Users\VEGA\source\repos\madihi___Eljamil\madihi___Eljamil\bin\Debug\madihi___Eljamil.exe.config
+C:\Users\VEGA\source\repos\madihi___Eljamil\madihi___Eljamil\bin\Debug\madihi___Eljamil.exe
+C:\Users\VEGA\source\repos\madihi___Eljamil\madihi___Eljamil\bin\Debug\madihi___Eljamil.pdb
+C:\Users\VEGA\source\repos\madihi___Eljamil\madihi___Eljamil\obj\Debug\madihi___Eljamil.csprojAssemblyReference.cache
+C:\Users\VEGA\source\repos\madihi___Eljamil\madihi___Eljamil\obj\Debug\madihi___Eljamil.csproj.CoreCompileInputs.cache
+C:\Users\VEGA\source\repos\madihi___Eljamil\madihi___Eljamil\obj\Debug\madihi___Eljamil.exe
+C:\Users\VEGA\source\repos\madihi___Eljamil\madihi___Eljamil\obj\Debug\madihi___Eljamil.pdb
+C:\Users\VEGA\Desktop\Projet Compilation Madihi && Eljami\Code_source_Madihi_Eljamil\madihi___Eljamil\bin\Debug\madihi___Eljamil.exe.config
+C:\Users\VEGA\Desktop\Projet Compilation Madihi && Eljami\Code_source_Madihi_Eljamil\madihi___Eljamil\bin\Debug\madihi___Eljamil.exe
+C:\Users\VEGA\Desktop\Projet Compilation Madihi && Eljami\Code_source_Madihi_Eljamil\madihi___Eljamil\bin\Debug\madihi___Eljamil.pdb
+C:\Users\VEGA\Desktop\Projet Compilation Madihi && Eljami\Code_source_Madihi_Eljamil\madihi___Eljamil\obj\Debug\madihi___Eljamil.csprojAssemblyReference.cache
+C:\Users\VEGA\Desktop\Projet Compilation Madihi && Eljami\Code_source_Madihi_Eljamil\madihi___Eljamil\obj\Debug\madihi___Eljamil.csproj.CoreCompileInputs.cache
+C:\Users\VEGA\Desktop\Projet Compilation Madihi && Eljami\Code_source_Madihi_Eljamil\madihi___Eljamil\obj\Debug\madihi___Eljamil.exe
+C:\Users\VEGA\Desktop\Projet Compilation Madihi && Eljami\Code_source_Madihi_Eljamil\madihi___Eljamil\obj\Debug\madihi___Eljamil.pdb

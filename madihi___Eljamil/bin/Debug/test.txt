@@ -1,0 +1,7 @@
+IF a<c THEN
+"a<c"
+ELSE
+(* commentaire *)
+(* zakaria *) "a>=c"
+1 -1 1.2 -1.2 1.3E22 3*9
+END
